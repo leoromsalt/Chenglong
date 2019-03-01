@@ -1,0 +1,204 @@
+Gesture action:
+Mobile data.WIF.Lock screen.HOME.Return.Volume+.Volume-.Partial screenshot.Local WIFI password.SSearch.Recent task.Camera.Notification bar.Screenshot.Process cleanup.End current program.Screen recording. One song. Next song. Play pause. Sound mode. Power menu. Flight mode. Previous use program. BixBy voice. BixBy home page. Leo settings. Outdoor mode. Start any program. Screen assistant.
+
+V7.
+
+1. Long press the back button action
+2. Long press the HOME button to action
+3. Long press the most recent task button action
+4. Fingerprint sliding action
+5. Fingerprint sliding action
+6.BixBy button long press action
+7.BixBy key click action
+8. Power button double click action
+9. Power button long press action
+10. Slide on the desktop
+11. Desktop sliding action
+12. Suspended ball click action
+13. Suspended ball sliding action
+14. Suspended ball sliding action
+15. Suspended ball left sliding action
+16. Floating ball right sliding action
+17. The suspension ball slides for more than 3 seconds to automatically hide the suspended ball
+18. Screen Assistant Back Key Action
+19. Screen Assistant Recent Task Key Action
+20. Screen Assistant HOME button action
+21. Screen Assistant Flashlight Key Action
+22. Click the long press in the upper left corner of the status bar.
+23. Click the long press in the upper right corner of the status bar.
+24. The status bar double-clicks anywhere.
+25. Pulldown traffic shows hidden
+26. Pull down traffic font settings
+27. Pull down traffic display location
+28. Pulldown traffic size setting
+29. Drop-down clear button font size setting
+30. Drop-down clear button custom text
+31. Pulldown notification settings button font size setting
+32. Drop down notification settings button custom text
+33.Leo power menu style switch
+34. Power Menu Dialog Title Customization
+35. Drop-down date custom format
+36. Drop-down week custom format
+37. Pull down the lunar calendar display (not supported in some countries and specific models)
+38. Pull down the lunar style settings (not supported in some countries and specific models)
+39. Pull down the lunar calendar and date position interchange (some countries and specific models do not support)
+40. Pull down the lunar symbol setting (not supported in some countries and specific models)
+41. All actions support vibration feedback and vibration intensity setting
+42. Increase the pull-down time and size to show hidden click action
+43. Add Clear All Notification Settings Button Customization
+44. Fix the status bar color mismatch problem of the previous version
+45. Fix the drop-down device information in V6.0 to notify the display problem
+46. ​​Fix the carrier location on the status bar
+47. Fixing the lock screen operator is not realistic by default and the text is too small
+48. Add official power menu items. Each item has a switch. Keep the shutdown. A total of 17
+49. Increase official power menu text color size font settings
+50. Add drop-down button search button to show hidden
+51. Add drop-down setting button search button click action
+52. Increase the official power menu, the nine grids, the number of grids can be customized to set the horizontal and vertical screen independently.
+53. Increase the dynamic lock screen of the Bank of China
+54. Increase S10 Digital Health
+55. Some other adjustments
+============================================
+Based on N950FXXU5ZSB1 adaptation (N950X/G950X/G955X)
+1. Cancel the Japanese restriction, and you can also use the unique time attribute in China when using Japanese.
+2. Add a custom font (36 types)
+3. Status bar increases display current / voltage
+4. Status bar current voltage font color single line double line and other personalized settings
+5. Pull down to increase the analog clock (10 models)
+6. Pull down the analog clock to increase the dial, hour and minute hands, second hand color settings
+7. Pull down the analog clock to increase the date display, date can customize the font color size
+8. Increase power menu background customization
+7. Power menu background color 6 color gradient
+10. Power menu background wallpaper settings, Gaussian blur wallpaper settings, etc.
+11. Update kernel detection mechanism prohibits free replacement of kernel, except for special customized version
+12. The kernel will be uniformly adapted to the third-party kernel.
+13. Add fingerprint to restart quickly unlock
+14. Increase the lock screen status bar to hide
+15. Fix the status bar signal icon in the CHC area cannot be customized.
+16. Increase the smart manager version selection
+
+A. Status bar time
+ 1. Status bar time color customization (perfect color)
+ 2. Status bar time size customization
+ 3. Status bar time single line double line switching
+ 4. Status bar time detail display switching (Chinese time only) Lunar calendar Season constellation
+ 5. Status bar (AM/PM) display switching (English only)
+ 6. Status bar date display, as well as custom date format
+ 6. Status bar week display and custom week format (week format customization only supports Chinese)
+ 7. Status bar time position switching
+ 8. Status bar time seconds display
+ 9. Status bar time click to open time APP
+ 10. Status bar time fonts (35 types, some fonts are friendly to English)
+B. Status bar speed
+ 1. Network speed status bar switch
+ 2. Network speed position switching
+ 3. No traffic automatic hiding
+ 4. Network speed unit switching
+ 6. Network speed refresh
+ 7. Network speed icon display
+ 8. Network speed icon customization
+ 9. Network speed color customization (perfect color)
+ 10. Network speed single line and double line switching
+ 11. Speed ​​font switching
+C. Status bar operator
+ 1. Status bar operator display (if the dual card is inserted, the graphics card operator is displayed)
+ 2. Status bar operator color customization (perfect color)
+ 3. Status bar operator size customization
+ 4. Status Bar Operator Font Customization
+ 5. Status bar operator single line and double line switching
+D. Status bar LOGO
+  1. Status bar LOGO display is hidden
+  2. Status bar LOGO color customization (perfect color)
+  3. Status bar LOGO style
+  4. Status Bar LOGO Size Customization
+E. Status bar temperature
+  1. Status bar temperature display is hidden
+  2. Status bar temperature Single line and double line switching
+  3. Status bar single line double line size slitting custom
+  4. Status bar temperature color customization (perfect color)
+F status bar battery
+ 1. Status bar battery and LEO battery switch
+ 2. Status bar battery percentage display is hidden
+ 3. Status bar battery icon size custom
+ 4. Status bar battery percentage size customization
+ 5. Status bar icon color percentage color customization (perfect color)
+ 6. Status bar percentage font customization
+ 7. Status bar battery bar display
+ 8. Power bar display position
+ 9. Battery strip charging animation
+ 10. Battery strip height setting
+ 11. Battery strip color setting
+G. Status bar background
+  1. Status bar background enable/disable
+  2. Background style (general color, gradient color, wallpaper)
+  3. Gradient color (6 color gradients)
+  4. Gradient mode (linear gradient, radioactive gradient, scanning gradient)
+  5. Gradient type setting (8 types)
+  6. Gradient color radius setting
+  7. Gradient color fillet radius setting
+  8. Wallpaper custom settings
+  9. Wallpaper transparency settings
+  10. Wallpaper coloring settings
+  11. Wallpaper Gaussian Blur Enable/Disable
+  12. Wallpaper ambiguity setting
+H. Status bar icon
+  1. The status bar icon is hidden (including: Bluetooth NFC VOLTE battery signal WIFI, etc.)
+  2. Custom signal icon
+  3. Custom WIFI icon
+  4. Flashlight icon show/hide
+  5.4G display LTE settings
+I. Accessibility
+ 1. Local WIFI password to view and share
+ 2. Application management (program backup / program freeze / program streamlining, etc.)
+ 3. Mirror management (backup restore BOOT/RECPVERY/EFS/ and ZIP brush)
+ 4. Performance mode switching
+ 6. Log acquisition sharing
+J. prompt tone
+ 1.Usb connection tone switch
+ 2. Screenshot prompt tone switch
+ 3. Volume adjustment tone switch
+ 4. Low battery tone switch
+ 5. Lock screen sound switch
+ 5. Unlock the tone switch
+K. Pull down the operator
+ 1. Pull down the operator switch
+ 2. Pull down the operator text size setting
+ 3. Pull down the operator color settings
+ 4. Pull down the operator custom text
+ 5. Pull down the carrier font settings
+L. Pulldown device information
+ 1. Device information display is hidden
+ 2. Device information color setting
+ 3. Device information size setting
+ 4. Device information display lines
+ 5. Device information font settings
+ 6. Display position (center / left / right)
+ 7. Pull down to display the setting information selection
+(Device Signal / Android Version / ROM Version / WIFI / Next Alarm / Temperature / Storage / Battery Status / CPU Usage / CPU Model / CPU Frequency / Battery Capacity / Voltage Current)
+
+=====================================================
+I. Accessibility
+ 1. Local WIFI password to view and share
+ 2. Application management (program backup / program freeze / program streamlining, etc.)
+ 3. Mirror management (backup restore BOOT/RECPVERY/EFS/ and ZIP brush)
+ 4. Performance mode switching
+ 6. Log acquisition sharing
+ =====================================================
+ V6.0
+Based on N950FXXU5ZSB1 adaptation (N950X/G950X/G955X)
+1. Cancel the Japanese restriction, and you can also use the unique time attribute in China when using Japanese.
+2. Add a custom font (36 types)
+3. Status bar increases display current / voltage
+4. Status bar current voltage font color single line double line and other personalized settings
+5. Pull down to increase the analog clock (10 models)
+6. Pull down the analog clock to increase the dial, hour and minute hands, second hand color settings
+7. Pull down the analog clock to increase the date display, date can customize the font color size
+8. Increase power menu background customization
+7. Power menu background color 6 color gradient
+10. Power menu background wallpaper settings, Gaussian blur wallpaper settings, etc.
+11. Update kernel detection mechanism prohibits free replacement of kernel, except for special customized version
+12. The kernel will be uniformly adapted to the third-party kernel.
+13. Add fingerprint to restart quickly unlock
+14. Increase the lock screen status bar to hide
+15. Fix the status bar signal icon in the CHC area cannot be customized.
+16. Increase the smart manager version selection
