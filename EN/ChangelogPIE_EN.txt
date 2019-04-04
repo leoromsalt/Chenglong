@@ -1,6 +1,43 @@
 Gesture action:
 Mobile data.WIF.Lock screen.HOME.Return.Volume+.Volume-.Partial screenshot.Local WIFI password.SSearch.Recent task.Camera.Notification bar.Screenshot.Process cleanup.End current program.Screen recording. One song. Next song. Play pause. Sound mode. Power menu. Flight mode. Previous use program. BixBy voice. BixBy home page. Leo settings. Outdoor mode. Start any program. Screen assistant.
 
+V8.0
+Add custom latest task background wallpaper color gradient color Gaussian blurred wallpaper
+Add the latest task memory display, click on the memory to clean the background process
+Added recent task memory text color background color font style (not donated can not be used)
+Added recent task memory refresh rate setting (not donated, not available)
+Quickly enter LEO recent task settings in the recent task
+Fix known bugs in V7.2
+Modify the kernel restriction scheme, donate version, test users can freely change their favorite (Qualcomm does not support modifying the kernel)
+Increased WIFI security detection for Orion models (China only)
+Orion model modification game tool for China version (China only)
+Increase desktop Gaussian Blur wallpaper settings
+Increase the blur setting of the desktop Gaussian Blur Wallpaper
+Increase desktop Gaussian Blur Wallpaper Color Mask Settings
+Increase desktop Gaussian Blur Wallpaper transparency settings
+Add LEO desktop settings to the quick access interface in the main screen settings
+Modify the Google service to disable Google services in the brush machine
+Add Google service download (download directly from LEO server) to install the automatic identification device version and install the corresponding Google service component (not donated)
+Added navigation bar height setting (you can set horizontal screen vertical screen separately) (not donated can not be used)
+Added LEO side screen panel
+Added LEO side screen to display project control (not donated, not available)
+Added LEO side screen text color size setting (not donated can not be used)
+Pull down QS button to increase four-button restart, outdoor mode, one-button cleaning, one-button lock screen (undonated action click invalid)
+Improve LEO power menu
+Power on the order to add a restart UI
+New lock screen weather Support weather real-time status Real-time location Temperature AQI Somatosensory temperature Sunrise and sunset time High and low temperature, etc. (can be set icon Date Color Fonts, etc. Not donated Cannot be customized)
+Add lock screen next alarm (can set alarm icon date color size font etc. not donated can not be customized)
+Modify Samsung Power Menu Add Restart UI Action and Modify Donation Limits Donate Unavailable
+Add desktop double-click action (not donated can not be used)
+Kernel update to FusionLeo v0.9.0
+Magisk updated to 19.1 (booting in the installer will restart twice to enter the desktop has permission, in addition, according to the test in the REC cleanup 125 option does not seem to restart the boot directly has a line selection) now this version of the permissions permission speed is significantly improved
+Orion has been tested internally
+Fix bugs found in the Orion test
+Fix the status bar flashlight icon in 7.2 can not hide the BUG
+Modify the Magisk script
+Modify lock screen weather service refresh time
+Add SMS attribution settings
+
 V7.
 
 1. Long press the back button action
